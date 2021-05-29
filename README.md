@@ -83,5 +83,5 @@
 [website]: https://teamdowhile.com
 [youtube]: https://youtube.com/c/teamdowhile
 [instagram]: 
-[linkedin]: 
+[linkedin]: https://www.linkedin.com/in/paras-singh-3700111a2/
 [github]:https://github.com/parassingh016
