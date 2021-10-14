@@ -1,11 +1,10 @@
-### Hello, floks! , I'm Paras Singh - [website] 👋
+### Hello, floks! , I'm Paras Singh 👋
 
-[![Website](https://img.shields.io/website?label=teamdowhile.com&style=for-the-badge&url=https%3A%2F%2Fteamdowhile.com)](https://teamdowhile.com)
-<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
 
-## I'm a  Developer & Founder !
 
-- 🔭 I’m currently working on a [React]
+## I'm a  Developer  !
+
+- 🔭 I’m currently working on a [open source]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
