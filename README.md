@@ -4,7 +4,7 @@
 
 ## I'm a  Developer  !
 
-- 🔭 I’m currently working on a [open source]
+- 🔭 I’m currently working on a [React and Django]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
